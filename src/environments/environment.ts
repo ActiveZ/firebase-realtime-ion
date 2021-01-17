@@ -7,6 +7,7 @@ export const environment = {
   firebase : {
     apiKey: "AIzaSyCf4USovb4fbGdLSledes8PoR2xSJ1R-CQ",
     authDomain: "frugysoft-680e1.firebaseapp.com",
+    databaseURL: "https://frugysoft-680e1-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "frugysoft-680e1",
     storageBucket: "frugysoft-680e1.appspot.com",
     messagingSenderId: "1040570832227",
